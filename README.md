@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **turabovumid587@gmail.com**
 
-- ⚡️ Fun fact: **It is ok sometimes being an idiot**
+- ⚡️ Fun fact: **It is ok sometimes to be an idiot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
