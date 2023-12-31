@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ICANGROUP IT-Company**
 
-- 🌱 I’m currently learning **Three Js**
+- 🌱 I’m currently learning **Nuxt Js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muslim-571/sites](https://app.netlify.com/teams/muslim-571/sites)
 
